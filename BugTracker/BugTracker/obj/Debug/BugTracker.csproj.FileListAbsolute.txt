@@ -1,0 +1,11 @@
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\bin\Debug\BugTracker.exe.config
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\bin\Debug\BugTracker.exe
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\bin\Debug\BugTracker.pdb
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.AssemblyReference.cache
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\obj\Debug\BugTracker.Form1.resources
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\obj\Debug\BugTracker.Properties.Resources.resources
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.GenerateResource.cache
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\obj\Debug\BugTracker.csproj.CoreCompileInputs.cache
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\obj\Debug\BugTracker.exe
+D:\Documents\Programacion de aplicaciones v P\BugTracker\BugTracker\obj\Debug\BugTracker.pdb
